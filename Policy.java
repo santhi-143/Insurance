@@ -2,7 +2,7 @@ public class file
   {
     public static void main (string[] args)
     {
-      system.out.println("santhi is good");
+      system.out.println("santhi is a good ");
     }
 
   }
